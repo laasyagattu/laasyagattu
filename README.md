@@ -1,6 +1,6 @@
 ## Hi, I'm Laasya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm a Data Science and Business Administration student at Northeastern University with a minor in Public Health, passionate about data engineering, applied machine learning, and turning messy data into tools people actually use. My interests also extend to digital health, data governance, and UI/UX design. Currently exploring how thoughtful, human-centered data products can improve health and decision-making.
+I'm a Data Science and Business Administration student at Northeastern University with a minor in Public Health, passionate about data engineering, applied machine learning, and turning messy data into tools people actually use. Currently exploring how thoughtful, human-centered data products can improve health and decision-making.
 
 
 ### Interests
@@ -13,13 +13,15 @@ I'm a Data Science and Business Administration student at Northeastern Universit
 
 ### Some of My Work!
 
-* **[EuroHome](https://github.com/isabel-larenas/HousingHomies-Team)** — Data-driven EU housing platform (Python, Streamlit, MySQL, Docker) with multi-persona access for students, real estate agents, and government agencies. Features listing search and reviews, an interactive market dashboard, an EU risk heatmap, and ML models for housing satisfaction and housing deprivation forecasting trained on Eurostat data. Built as a 4-person team during a study abroad Dialogue of Civilizations in Leuven, Belgium ([check out our team blog here](https://isabel-larenas.github.io/Belgium-Dialogue-Blog/)).
+* **[EuroHome](https://github.com/isabel-larenas/HousingHomies-Team)** — Data-driven EU housing platform (Python, Streamlit, MySQL, Docker) with multi-persona access for students, real estate agents, and government agencies. Features listing search and reviews, an interactive market dashboard, an EU risk heatmap, and ML models for housing satisfaction and housing deprivation forecasting trained on Eurostat data. Built during a study abroad Dialogue of Civilizations in Leuven, Belgium ([check out our team blog here](https://isabel-larenas.github.io/Belgium-Dialogue-Blog/)).
 
-* **[ProductiviTea](https://productivi-tea.netlify.app/)** — Team-built full-stack productivity and social task-management app (React, Vite, Supabase/PostgreSQL, MUI) with task tracking, deadline reminders, a unified notification inbox, real-time friend activity, and session analytics dashboards.
+* **[ProductiviTea](https://productivi-tea.netlify.app/)** — Full-stack productivity and social task-management app (React, Vite, Supabase/PostgreSQL, MUI) with task tracking, deadline reminders, a unified notification inbox, real-time friend activity, and session analytics dashboards.
+
+* **Sleep Disorder Risk Analysis** — Random forest classifiers (Python, pandas, scikit-learn, Matplotlib) predicting individual insomnia and sleep apnea risk from 10 demographic and lifestyle predictors, achieving 98% accuracy, with visualizations evaluating model performance and feature importance. 
 
 <br>
 
-### Technologies & Tools
+### What I Work With
 
 **📊 Data Science & ML**
 
